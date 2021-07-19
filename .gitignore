@@ -1,7 +1,2 @@
-/.gitconfig    
-.cache  
-.profile   
-.ssh
-.bashrc       
-.git    
-.viminfo                                                      
+.*
+!/.gitignore                                                      
