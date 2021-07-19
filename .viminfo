@@ -21,16 +21,18 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/.gitignore
-'1  2  9  ~/.gitignore
-'2  1  11  ~/.gitignore
-'3  1  0  ~/.gitignore
-'4  1  0  ~/.gitconfig
-'5  1  62  ~/.gitignore
+'0  5  0  ~/.gitignore
+'1  6  0  ~/.gitignore
+'2  2  9  ~/.gitignore
+'3  1  11  ~/.gitignore
+'4  1  0  ~/.gitignore
+'5  1  0  ~/.gitconfig
+'6  1  62  ~/.gitignore
 
 # Jumplist (newest first):
--'  6  0  ~/.gitignore
+-'  5  0  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  6  0  ~/.gitignore
 -'  2  9  ~/.gitignore
 -'  1  0  ~/.gitconfig
 -'  1  0  ~/.gitconfig
@@ -70,13 +72,45 @@
 -'  1  0  ~/.gitconfig
 -'  1  0  ~/.gitconfig
 -'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	6	0
-	^	6	0
-	.	5	8
+	"	5	0
+	^	5	1
+	.	5	0
 	+	1	17
 	+	1	0
 	+	1	40
@@ -90,6 +124,11 @@
 	+	1	12
 	+	2	7
 	+	5	8
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
 
 > ~/.gitconfig
 	"	1	0
